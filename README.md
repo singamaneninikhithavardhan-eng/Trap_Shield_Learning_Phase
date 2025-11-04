@@ -1,4 +1,4 @@
-# Trap Shield Learning Phase – Project 1
+# Trap Shield Learning Phase 
 
 Welcome to **Task 1** of the Trap Shield Learning Phase! 
 This task will help you get comfortable with **Ubuntu**, **basic Linux commands**, and **using GitHub for submissions**.
